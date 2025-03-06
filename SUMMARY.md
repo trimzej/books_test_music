@@ -4,4 +4,4 @@
 
 ## GMS
 
-* [Page 1](gms/page-1.md)
+* [GMS 1](gms/gms-1.md)
